@@ -15,6 +15,7 @@ namespace MapApp
             InitializeComponent();
 
             MainPage = new NavigationPage(new MapPage());
+            
         }
 
         protected override void OnStart()
